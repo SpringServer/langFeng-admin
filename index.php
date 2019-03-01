@@ -1,3 +1,2 @@
 <?php
-echo "error";
-echo "hello world good";
+echo "hello world";
